@@ -35,7 +35,7 @@
 - 📝 **Author** of 2 high-impact papers in Automation in Construction (IF: 9.6)
 - 🏗️ Building **decentralized systems** that eliminate bias and automate carbon tracking
 - 🌍 Creating solutions for the **$1.7 trillion** construction industry
-- 🚀 Integrating **BIM**, **AI (GPT-4 Vision)**, and **Blockchain** for sustainable construction
+- 🚀 Integrating **BIM**, **AI (Large Multimodal Models)**, and **Blockchain** for sustainable construction
 - ⚡ Fun fact: I'm not just a full-stack developer... I'm the ENTIRE stack! Backend? Me. Frontend? Also me. Blockchain? Yep, me. AI? Still me. DevOps? Me again. I'm basically a one-man tech army! 
 
 <br clear="right"/>
