@@ -177,33 +177,76 @@ My research tackles critical challenges in the $1.7 trillion construction indust
 ### 🛠️ System Architecture Expertise
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=800&lines=BIM+Models+→+AI+Processing+→+Smart+Contracts+→+Blockchain+→+React+Dashboard" alt="Architecture Flow" />
-</div>
+
+#### 🌟 My End-to-End Construction Tech Pipeline
+
+```mermaid
+graph LR
+    A[🏗️ BIM Models] -->|Extract Data| B[🤖 AI Processing]
+    B -->|Parse & Validate| C[📜 Smart Contracts]
+    C -->|Execute & Store| D[⛓️ Blockchain]
+    D -->|Display Results| E[📊 React Dashboard]
+    
+    style A fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#FFE66D,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#A8DADC,stroke:#333,stroke-width:2px,color:#333
+    style E fill:#FF006E,stroke:#fff,stroke-width:2px,color:#fff
+```
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Step%201-BIM%20Models-FF6B6B?style=for-the-badge&labelColor=2C2C2C" alt="Step 1" />
+      <br><br>
+      <b>🏗️ BIM Integration</b>
+      <br><sub>Revit & PyRevit</sub>
+      <br><sub>Extract material data</sub>
+      <br><sub>Quantity takeoffs</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Step%202-AI%20Processing-4ECDC4?style=for-the-badge&labelColor=2C2C2C" alt="Step 2" />
+      <br><br>
+      <b>🤖 AI/LMM Pipeline</b>
+      <br><sub>GPT-4 Vision</sub>
+      <br><sub>Receipt parsing</sub>
+      <br><sub>98% accuracy</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Step%203-Smart%20Contracts-FFE66D?style=for-the-badge&labelColor=2C2C2C" alt="Step 3" />
+      <br><br>
+      <b>📜 Contract Logic</b>
+      <br><sub>Solidity 2.4K LoC</sub>
+      <br><sub>Automated matching</sub>
+      <br><sub>0 vulnerabilities</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Step%204-Blockchain-A8DADC?style=for-the-badge&labelColor=2C2C2C" alt="Step 4" />
+      <br><br>
+      <b>⛓️ Immutable Ledger</b>
+      <br><sub>Ethereum network</sub>
+      <br><sub>37% gas optimized</sub>
+      <br><sub>Decentralized storage</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Step%205-Dashboard-FF006E?style=for-the-badge&labelColor=2C2C2C" alt="Step 5" />
+      <br><br>
+      <b>📊 React Interface</b>
+      <br><sub>Real-time analytics</sub>
+      <br><sub>200ms latency</sub>
+      <br><sub>Live emissions data</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏗️_BIM-Revit%20Models-FF6B6B?style=for-the-badge" alt="BIM" />
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤖_AI-LMM%20Processing-4ECDC4?style=for-the-badge" alt="AI" />
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📜_Smart-Contracts-FFE66D?style=for-the-badge" alt="Smart Contracts" />
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⛓️_Blockchain-Ledger-A8DADC?style=for-the-badge" alt="Blockchain" />
-      </td>
-      <td align="center">→</td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📊_React-Dashboard-FF006E?style=for-the-badge" alt="Dashboard" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/🔄_Data_Flow-Seamless%20Integration-gradient?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Flow" />
+</div>
+
 </div>
 
 </div>
