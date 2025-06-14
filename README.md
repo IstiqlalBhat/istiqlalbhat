@@ -32,7 +32,7 @@
 
 - 🎓 **MS in Computer Science** at Clemson University (Dec 2025)
 - 🔬 **Graduate Research Assistant** revolutionizing construction tech with blockchain & AI
-- 📝 **Lead Author** of 2 high-impact papers in Automation in Construction (IF: 9.6)
+- 📝 **Author** of 2 high-impact papers in Automation in Construction (IF: 9.6)
 - 🏗️ Building **decentralized systems** that eliminate bias and automate carbon tracking
 - 🌍 Creating solutions for the **$1.7 trillion** construction industry
 - 🚀 Integrating **BIM**, **AI (GPT-4 Vision)**, and **Blockchain** for sustainable construction
