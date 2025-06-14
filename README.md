@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Graduate+Research+Assistant;Full+Stack+Developer;Blockchain+Engineer;AI+%26+Web3+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Graduate+Research+Assistant;Full+Stack+Developer;Blockchain+Engineer;AI+%26+Web3+Enthusiast;Published+Researcher)
 
 </div>
 
@@ -11,6 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=istiqlalbhat&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/istiqlalbhat?label=Followers&style=flat-square&color=blue)
 ![Focus](https://img.shields.io/badge/Focus-Blockchain%20%26%20AI-brightgreen?style=flat-square)
+![Research](https://img.shields.io/badge/Research-Construction%20Tech-orange?style=flat-square)
 
 </div>
 
@@ -21,6 +22,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istiqlal1234@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiqlalaurangzeb)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istiqlalbhat)
 
 </div>
 
@@ -33,6 +35,7 @@
 - 📝 **Lead Author** of 2 high-impact papers in Automation in Construction (IF: 9.6)
 - 🏗️ Building **decentralized systems** that eliminate bias and automate carbon tracking
 - 🌍 Creating solutions for the **$1.7 trillion** construction industry
+- 🚀 Integrating **BIM**, **AI (GPT-4 Vision)**, and **Blockchain** for sustainable construction
 - ⚡ Fun fact: I'm not just a full-stack developer... I'm the ENTIRE stack! Backend? Me. Frontend? Also me. Blockchain? Yep, me. AI? Still me. DevOps? Me again. I'm basically a one-man tech army! 🚀
 
 <br clear="right"/>
@@ -61,6 +64,18 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-284B7E?style=for-the-badge&logo=ethers&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=ganache&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLaVA](https://img.shields.io/badge/LLaVA-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🏗️ Construction Tech
+![Revit](https://img.shields.io/badge/Revit-FF9E0B?style=for-the-badge&logo=autodesk&logoColor=white)
+![PyRevit](https://img.shields.io/badge/PyRevit-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![BIM](https://img.shields.io/badge/BIM-2C3E50?style=for-the-badge&logo=building&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -80,7 +95,7 @@
 
 </div>
 
-My research tackles critical challenges in the construction industry by developing innovative blockchain and AI solutions:
+My research tackles critical challenges in the $1.7 trillion construction industry by developing innovative blockchain and AI solutions:
 
 <table>
   <tr>
@@ -89,17 +104,19 @@ My research tackles critical challenges in the construction industry by developi
       <ul>
         <li>Developed blockchain-based automatic matching system</li>
         <li>Removes relationship bias in subcontractor selection</li>
-        <li>Smart contracts with 0 critical vulnerabilities</li>
+        <li>Smart contracts with <b>0 critical vulnerabilities</b></li>
         <li>Decentralized procurement with anonymous bidding</li>
+        <li>37% gas optimization in transactions</li>
       </ul>
     </td>
     <td width="50%">
       <h3>🌱 AB-CELS: AI-Powered Carbon Tracking</h3>
       <ul>
         <li>Created Large Multimodal Model pipeline for receipt parsing</li>
-        <li>98% accuracy in extracting emission data</li>
+        <li><b>98% accuracy</b> in extracting emission data</li>
         <li>Automated carbon emissions ledger on blockchain</li>
         <li>Real-time tracking for A4 & A5 construction phases</li>
+        <li>Integration with GPT-4 Vision for receipt processing</li>
       </ul>
     </td>
   </tr>
@@ -139,8 +156,8 @@ My research tackles critical challenges in the construction industry by developi
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Smart%20Contracts-Audited-blue?style=for-the-badge&logo=ethereum" alt="Smart Contracts" />
-      <br><b>Security First</b>
+      <img src="https://img.shields.io/badge/Smart%20Contracts-2.4K%20LoC-blue?style=for-the-badge&logo=ethereum" alt="Smart Contracts" />
+      <br><b>Solidity Development</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Gas%20Optimization-37%25%20Reduction-green?style=for-the-badge&logo=ethereum" alt="Gas Optimization" />
@@ -167,11 +184,11 @@ My research tackles critical challenges in the construction industry by developi
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/🏗️_BIM-3D_Models-FF6B6B?style=for-the-badge" alt="BIM" />
+        <img src="https://img.shields.io/badge/🏗️_BIM-Revit%20Models-FF6B6B?style=for-the-badge" alt="BIM" />
       </td>
       <td align="center">→</td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🤖_AI-LMM_Processing-4ECDC4?style=for-the-badge" alt="AI" />
+        <img src="https://img.shields.io/badge/🤖_AI-LMM%20Processing-4ECDC4?style=for-the-badge" alt="AI" />
       </td>
       <td align="center">→</td>
       <td align="center">
@@ -224,11 +241,12 @@ My research tackles critical challenges in the construction industry by developi
 <div align="left">
 
 ```diff
-+ 🎉 June 2025: AB-CELS paper accepted
++ 🎉 June 2025: AB-CELS paper accepted (Impact Factor: 9.6)
 + 🏆 May 2025: Wrapped up the third semester with a perfect 4.0 GPA
 + 🚀 April 2025: Deployed first production smart contract
 + 📊 March 2025: Achieved 98% accuracy in AI receipt parsing
 + 🔧 February 2025: Integrated GPT-4 Vision with blockchain
++ 📝 September 2024: BBAPS paper accepted (Impact Factor: 9.6)
 ```
 
 </div>
@@ -242,6 +260,8 @@ My research tackles critical challenges in the construction industry by developi
 [![Paper](https://img.shields.io/badge/Automation%20in%20Construction-AB--CELS%20(2025)-blue?style=for-the-badge&logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.autcon.2025.105987)
 
 [![Paper](https://img.shields.io/badge/Automation%20in%20Construction-BBAPS%20(2024)-green?style=for-the-badge&logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.autcon.2024.105779)
+
+**Impact Factor: 9.6** | **Top 1%** in Construction & Building Technology
 
 </div>
 
@@ -272,6 +292,37 @@ My research directly addresses **$1.7 trillion** construction industry challenge
 
 </div>
 
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 💻 Beyond Research: Real-World Applications
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚗 AI Threat Detection for Autonomous Vehicles</h3>
+      <ul align="left">
+        <li>85% accuracy detecting adversarial attacks</li>
+        <li>45% improvement over legacy models</li>
+        <li>Real-time deployment on ZED Box & Raspberry Pi</li>
+        <li>CARLA simulator integration</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🍕 Pizzeria Management System</h3>
+      <ul align="left">
+        <li>Full-stack Java application with MySQL</li>
+        <li>AWS RDS deployment</li>
+        <li>30% efficiency improvement</li>
+        <li>SQL injection prevention</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## ✨ Random Dev Quote
 
 <div align="center">
@@ -289,5 +340,9 @@ My research directly addresses **$1.7 trillion** construction industry challenge
   <br>
   
   ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+  <br>
+  
+  <i>Building the future of construction technology, one smart contract at a time! 🚀</i>
   
 </div>
