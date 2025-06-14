@@ -1,8 +1,8 @@
-# ![Waving Hand](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png) Hey there, I'm Istiqlal Aurangzeb!
+# <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="35" height="35" /> Hey there, I'm Istiqlal Aurangzeb!
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Graduate+Research+Assistant;Full+Stack+Developer;Blockchain+Engineer;AI+%26+Web3+Enthusiast;Published+Researcher)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=600&lines=Automation+in+Construction+Researcher;Full+Stack+Developer;Blockchain+Engineer;AI+%26+Web3+Enthusiast;Published+Researcher)
 
 </div>
 
