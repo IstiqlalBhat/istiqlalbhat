@@ -33,8 +33,7 @@
 - 📝 **Published Author** in Automation in Construction (Impact Factor: 9.6)
 - 🚀 Passionate about **Web3**, **AI/ML**, and **Full-Stack Development**
 - 🌱 Currently exploring **Large Language Models** and **Smart Contract Security**
-- ⚡ Fun fact: I've audited 2.4K lines of Solidity code with 0 critical vulnerabilities!
-
+- ⚡ Fun fact: I'm not just a full-stack developer... I'm the ENTIRE stack! Backend? Me. Frontend? Also me. Blockchain? Yep, me. AI? Still me. DevOps? Me again. I'm basically a one-man tech army! 🚀
 <br clear="right"/>
 
 ## 🛠️ Tech Stack
