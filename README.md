@@ -32,7 +32,7 @@
 - 🔬 **Graduate Research Assistant** revolutionizing construction tech with blockchain & AI
 - 📝 **Lead Author** of 2 high-impact papers in Automation in Construction (IF: 9.6)
 - 🏗️ Building **decentralized systems** that eliminate bias and automate carbon tracking
-- 🌱 Pioneering **AI-powered receipt parsing** integrated with **blockchain ledgers**
+- 🌍 Creating solutions for the **$1.7 trillion** construction industry
 - ⚡ Fun fact: I'm not just a full-stack developer... I'm the ENTIRE stack! Backend? Me. Frontend? Also me. Blockchain? Yep, me. AI? Still me. DevOps? Me again. I'm basically a one-man tech army! 🚀
 
 <br clear="right"/>
@@ -89,8 +89,8 @@ My research tackles critical challenges in the construction industry by developi
       <ul>
         <li>Developed blockchain-based automatic matching system</li>
         <li>Removes relationship bias in subcontractor selection</li>
-        <li>2.4K lines of audited Solidity smart contracts</li>
-        <li>Achieved 0 critical vulnerabilities in security scans</li>
+        <li>Smart contracts with 0 critical vulnerabilities</li>
+        <li>Decentralized procurement with anonymous bidding</li>
       </ul>
     </td>
     <td width="50%">
@@ -139,42 +139,101 @@ My research tackles critical challenges in the construction industry by developi
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Smart%20Contracts-2.4K%20LoC-blue?style=for-the-badge&logo=ethereum" alt="Smart Contracts" />
-      <br><b>Solidity Code Written</b>
+      <img src="https://img.shields.io/badge/Smart%20Contracts-Audited-blue?style=for-the-badge&logo=ethereum" alt="Smart Contracts" />
+      <br><b>Security First</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Gas%20Optimization-37%25%20Reduction-green?style=for-the-badge&logo=ethereum" alt="Gas Optimization" />
-      <br><b>Transaction Efficiency</b>
+      <br><b>Cost Efficiency</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/AI%20Accuracy-98%25-orange?style=for-the-badge&logo=tensorflow" alt="AI Accuracy" />
-      <br><b>LMM Receipt Parsing</b>
+      <br><b>Receipt Parsing</b>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Response%20Time-200ms-red?style=for-the-badge&logo=react" alt="Response Time" />
-      <br><b>Blockchain Read Latency</b>
+      <br><b>Lightning Fast</b>
     </td>
   </tr>
 </table>
 
 ### 🛠️ System Architecture Expertise
 
-```mermaid
-graph LR
-    A[BIM Models] --> B[Data Extraction]
-    B --> C[AI Processing]
-    C --> D[Smart Contracts]
-    D --> E[Blockchain Ledger]
-    E --> F[React Dashboard]
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#9ff,stroke:#333,stroke-width:2px
-    style F fill:#ff9,stroke:#333,stroke-width:2px
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=800&lines=BIM+Models+→+AI+Processing+→+Smart+Contracts+→+Blockchain+→+React+Dashboard" alt="Architecture Flow" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏗️_BIM-3D_Models-FF6B6B?style=for-the-badge" alt="BIM" />
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤖_AI-LMM_Processing-4ECDC4?style=for-the-badge" alt="AI" />
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📜_Smart-Contracts-FFE66D?style=for-the-badge" alt="Smart Contracts" />
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⛓️_Blockchain-Ledger-A8DADC?style=for-the-badge" alt="Blockchain" />
+      </td>
+      <td align="center">→</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊_React-Dashboard-FF006E?style=for-the-badge" alt="Dashboard" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
 ## 🚀 Recent Activity
+
+<div align="center">
+  
+### 🎯 What I'm Building Now
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=istiqlalbhat&theme=tokyo-night&hide_border=true&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FF006E" alt="Activity Graph" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔨_Current-BB--CAS_v2.0-FF6B6B?style=for-the-badge" alt="Current Project" />
+      <br><b>BIM + Blockchain Carbon System</b>
+      <br><sub>Extending to A1-A3 phases</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🧪_Testing-GPT--4_Vision-4ECDC4?style=for-the-badge" alt="Testing" />
+      <br><b>Receipt Recognition</b>
+      <br><sub>Pushing 99% accuracy</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚_Learning-ZK_Proofs-FFE66D?style=for-the-badge" alt="Learning" />
+      <br><b>Zero Knowledge</b>
+      <br><sub>Privacy-preserving emissions</sub>
+    </td>
+  </tr>
+</table>
+
+### 💫 Recent Milestones
+
+<div align="left">
+
+```diff
++ 🎉 June 2025: AB-CELS paper accepted with major revisions
++ 🏆 May 2025: Presented BBAPS at Construction Tech Summit
++ 🚀 April 2025: Deployed first production smart contract
++ 📊 March 2025: Achieved 98% accuracy in AI receipt parsing
++ 🔧 February 2025: Integrated GPT-4 Vision with blockchain
+```
+
+</div>
+
+</div>
 
 ## 📚 Publications
 
