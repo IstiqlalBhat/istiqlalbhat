@@ -224,8 +224,8 @@ My research tackles critical challenges in the construction industry by developi
 <div align="left">
 
 ```diff
-+ 🎉 June 2025: AB-CELS paper accepted with major revisions
-+ 🏆 May 2025: Presented BBAPS at Construction Tech Summit
++ 🎉 June 2025: AB-CELS paper accepted
++ 🏆 May 2025: Wrapped up the third semester with a perfect 4.0 GPA
 + 🚀 April 2025: Deployed first production smart contract
 + 📊 March 2025: Achieved 98% accuracy in AI receipt parsing
 + 🔧 February 2025: Integrated GPT-4 Vision with blockchain
