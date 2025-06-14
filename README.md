@@ -174,69 +174,53 @@ My research tackles critical challenges in the $1.7 trillion construction indust
   </tr>
 </table>
 
-### 🛠️ System Architecture Expertise
+### 💡 What I Can Build
 
 <div align="center">
 
-#### 🌟 My End-to-End Construction Tech Pipeline
-
-```mermaid
-graph LR
-    A[🏗️ BIM Models] -->|Extract Data| B[🤖 AI Processing]
-    B -->|Parse & Validate| C[📜 Smart Contracts]
-    C -->|Execute & Store| D[⛓️ Blockchain]
-    D -->|Display Results| E[📊 React Dashboard]
-    
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#4ECDC4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#FFE66D,stroke:#333,stroke-width:2px,color:#333
-    style D fill:#A8DADC,stroke:#333,stroke-width:2px,color:#333
-    style E fill:#FF006E,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-<br>
+#### 🚀 From Concept to Production: My Full-Stack Expertise
 
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Step%201-BIM%20Models-FF6B6B?style=for-the-badge&labelColor=2C2C2C" alt="Step 1" />
+      <img src="https://img.shields.io/badge/🏗️-BIM%20Integration-FF6B6B?style=for-the-badge&labelColor=2C2C2C" alt="BIM" />
       <br><br>
-      <b>🏗️ BIM Integration</b>
-      <br><sub>Revit & PyRevit</sub>
-      <br><sub>Extract material data</sub>
-      <br><sub>Quantity takeoffs</sub>
+      <b>Construction Tech</b>
+      <br><sub>Revit Automation</sub>
+      <br><sub>PyRevit Scripts</sub>
+      <br><sub>3D Model Analysis</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Step%202-AI%20Processing-4ECDC4?style=for-the-badge&labelColor=2C2C2C" alt="Step 2" />
+      <img src="https://img.shields.io/badge/🤖-AI%20Solutions-4ECDC4?style=for-the-badge&labelColor=2C2C2C" alt="AI" />
       <br><br>
-      <b>🤖 AI/LMM Pipeline</b>
-      <br><sub>GPT-4 Vision</sub>
-      <br><sub>Receipt parsing</sub>
-      <br><sub>98% accuracy</sub>
+      <b>Machine Learning</b>
+      <br><sub>LMM Integration</sub>
+      <br><sub>Computer Vision</sub>
+      <br><sub>NLP Processing</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Step%203-Smart%20Contracts-FFE66D?style=for-the-badge&labelColor=2C2C2C" alt="Step 3" />
+      <img src="https://img.shields.io/badge/⛓️-Web3%20Apps-FFE66D?style=for-the-badge&labelColor=2C2C2C" alt="Web3" />
       <br><br>
-      <b>📜 Contract Logic</b>
-      <br><sub>Solidity 2.4K LoC</sub>
-      <br><sub>Automated matching</sub>
-      <br><sub>0 vulnerabilities</sub>
+      <b>Blockchain dApps</b>
+      <br><sub>Smart Contracts</sub>
+      <br><sub>DeFi Protocols</sub>
+      <br><sub>Gas Optimization</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Step%204-Blockchain-A8DADC?style=for-the-badge&labelColor=2C2C2C" alt="Step 4" />
+      <img src="https://img.shields.io/badge/🌐-Web%20Apps-A8DADC?style=for-the-badge&labelColor=2C2C2C" alt="Web" />
       <br><br>
-      <b>⛓️ Immutable Ledger</b>
-      <br><sub>Ethereum network</sub>
-      <br><sub>37% gas optimized</sub>
-      <br><sub>Decentralized storage</sub>
+      <b>Full-Stack Dev</b>
+      <br><sub>React Dashboards</sub>
+      <br><sub>REST APIs</sub>
+      <br><sub>Cloud Deployment</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Step%205-Dashboard-FF006E?style=for-the-badge&labelColor=2C2C2C" alt="Step 5" />
+      <img src="https://img.shields.io/badge/🔧-DevOps-FF006E?style=for-the-badge&labelColor=2C2C2C" alt="DevOps" />
       <br><br>
-      <b>📊 React Interface</b>
-      <br><sub>Real-time analytics</sub>
-      <br><sub>200ms latency</sub>
-      <br><sub>Live emissions data</sub>
+      <b>Infrastructure</b>
+      <br><sub>AWS Services</sub>
+      <br><sub>CI/CD Pipelines</sub>
+      <br><sub>System Design</sub>
     </td>
   </tr>
 </table>
@@ -244,7 +228,7 @@ graph LR
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔄_Data_Flow-Seamless%20Integration-gradient?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Flow" />
+  <img src="https://img.shields.io/badge/🎯_Specialty-Bridging%20Traditional%20Industries%20with%20Cutting--Edge%20Tech-gradient?style=for-the-badge" alt="Specialty" />
 </div>
 
 </div>
