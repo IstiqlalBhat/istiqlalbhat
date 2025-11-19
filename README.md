@@ -67,7 +67,7 @@
 ![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=ganache&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaVA](https://img.shields.io/badge/LLaVA-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
 
