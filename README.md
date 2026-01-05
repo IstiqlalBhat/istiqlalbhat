@@ -15,7 +15,7 @@
 I am a **Graduate Research Assistant** and Full Stack Engineer based in Clemson, SC. My research focuses on modernizing the construction industry (AEC) by integrating **Large Multimodal Models (LMMs)** with **Blockchain** technology to automate carbon tracking and procurement.
 
 - 🔭 **Currently working on:** Expanding privacy-preserving carbon tracking using Zero Knowledge Proofs.
-- 🏗️ **Core Focus:** Automation in Construction, Web3, and Applied AI.
+- 🏗️ **Core Focus:** Web3, and Applied AI.
 - 🎓 **Graduating:** December 2025.
 
 ---
