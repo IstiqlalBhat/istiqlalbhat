@@ -41,37 +41,6 @@ I care about **shipping**, **performance**, and **product quality**.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
----
-
-## Projects (Highlights)
-
-### AI / Agents / RAG
-- **email-rag** — Email RAG chatbot (Jupyter Notebook)
-- **aiagent** — Agent project (“Call OpenClaw”) (Python)
-- **llmparser** — Parsing + app experiments (TypeScript)
-
-### Full-Stack / Web
-- **portfolio** — Personal portfolio (JavaScript)
-- **UI-Play** — UI experiments & components (TypeScript)
-- **scrollytelling** — Scroll-based interactive UI (TypeScript)
-- **polytex-website** — Vercel-deployable website (CSS)
-
-### Automation / Dev Tools / Systems
-- **revit-agentic** — Automation agent project (C#)
-- **PyRevit-Blockchain** — Systems integration project (TypeScript)
-- **radar** — TypeScript project
-
-### IoT / Embedded
-- **Arduino** — IoT project collection (JavaScript)
-- **ArduML** — Arduino + ML experiments (TypeScript)
-
-### Apps / Misc
-- **AI-Based-Movie-Recommendation-System** — Movie recommender w/ emotion-aware flow (JavaScript)
-- **Pizza-Management-System** — Java-based operations app (Java)
-
-> See pinned repos for the best overview, and the rest on my GitHub profile.
-
----
 
 ## Publications
 
