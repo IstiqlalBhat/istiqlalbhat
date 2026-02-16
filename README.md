@@ -82,6 +82,3 @@ I’ve published research in **Automation in Construction**:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istiqlalbhat&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-</div>
