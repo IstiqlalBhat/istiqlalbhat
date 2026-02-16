@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <!-- Hero Banner (SVG artifact) -->
@@ -102,4 +102,4 @@ I’ve published research in <strong>Automation in Construction</strong>:
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=140&section=footer" />
-```
+
