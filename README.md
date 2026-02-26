@@ -57,12 +57,6 @@ I care about **shipping**, **performance**, and **product quality**.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=istiqlalaurangzeb&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiqlalaurangzeb&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-
-</div>
 
 ---
 
