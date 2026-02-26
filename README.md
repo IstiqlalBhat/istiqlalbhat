@@ -18,9 +18,9 @@
 
 ## `$ whoami`
 
-SDE who obsesses over the full loop — from schema design to deploy scripts to the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive frontends**, **AI/RAG pipelines**, and **developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software that people actually want to use.
+SDE who obsesses over the full loop, from schema design to deploy scripts to the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive frontends**, **AI/RAG pipelines**, and **developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software that people actually want to use.
 
-Currently finishing my **MS in Computer Science at Clemson University** (Dec 2025), with published research in automation and construction informatics.
+**MS in Computer Science at Clemson University** (Dec 2025), with published research in automation and construction informatics.
 
 <br/>
 
