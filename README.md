@@ -1,70 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=220&section=header&text=Hi%2C%20I'm%20Istiqlal%20Aurangzeb%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20(SDE)%20%E2%80%A2%20MS%20CS%20%40%20Clemson%20University%20(Dec%202025)&descAlignY=58&descSize=16" />
-
-**I build production-grade software across full-stack, AI apps, and developer tools.**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:istiqlal1234@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiqlalaurangzeb)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+full-stack+%7C+AI%2FRAG+%7C+developer+tools+%E2%9C%A8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=220&section=header&text=Istiqlal%20Aurangzeb&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=58&descSize=18" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Shipping-First-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance-Driven-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Product-Quality-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFFFFFCC&center=true&vCenter=true&width=600&lines=Full-stack+systems+that+ship+and+scale;AI%2FRAG+pipelines+from+prototype+to+production;MS+CS+%40+Clemson+%E2%80%94+graduating+Dec+2025" />
 
 <br/><br/>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+[![Gmail](https://img.shields.io/badge/-istiqlal1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:istiqlal1234@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-istiqlalaurangzeb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiqlalaurangzeb)&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
 
 </div>
 
----
+<br/>
 
-## About
+## `$ whoami`
 
-I'm an **SDE** focused on building reliable systems end-to-end—backend APIs, clean UIs, data pipelines, and AI-powered features.
-I care about **shipping**, **performance**, and **product quality**.
+SDE who obsesses over the full loop — from schema design to deploy scripts to the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive frontends**, **AI/RAG pipelines**, and **developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software that people actually want to use.
 
-- 🔨 Building: full-stack apps, AI/RAG systems, automation tools, and experimentation projects
-- 🔭 Interests: scalable web systems, agentic workflows, applied ML, developer experience
-- 🎓 MS CS @ Clemson (Dec 2025)
+Currently finishing my **MS in Computer Science at Clemson University** (Dec 2025), with published research in automation and construction informatics.
 
----
+<br/>
 
-## Tech I Use
+## Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=2&section=header" />
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+## What I'm About
 
-**Frameworks / Tools**
+```
+🔨  I default to building, not theorizing
+📐  I treat clean architecture as a feature, not a luxury
+⚡  I measure success in latency, uptime, and user retention
+🧪  I prototype fast, then harden what works
+```
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
+<br/>
 
 ## Publications
 
-I've published research in **Automation in Construction**:
+Published in **Automation in Construction** (Elsevier, IF ~10):
 
-- **AB-CELS (2025)** — [doi.org/10.1016/j.autcon.2025.105987](https://doi.org/10.1016/j.autcon.2025.105987)
-- **BBAPS (2024)** — [doi.org/10.1016/j.autcon.2024.105779](https://doi.org/10.1016/j.autcon.2024.105779)
+| Year | Paper | DOI |
+|------|-------|-----|
+| 2025 | **AB-CELS** — Automated building code extraction using LLM pipelines | [10.1016/j.autcon.2025.105987](https://doi.org/10.1016/j.autcon.2025.105987) |
+| 2024 | **BBAPS** — BIM-based automated permitting system | [10.1016/j.autcon.2024.105779](https://doi.org/10.1016/j.autcon.2024.105779) |
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=istiqlalaurangzeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=ec4899" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiqlalaurangzeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=istiqlalaurangzeb&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=0EA5E9" />
+
+<br/><br/>
+
+<img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+</div>
+
+<br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=140&section=footer" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=istiqlalaurangzeb&style=flat-square&color=8b5cf6&label=profile+views" />
+
+**If you're building something interesting, let's talk.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=120&section=footer" />
