@@ -102,13 +102,13 @@ Published in **Automation in Construction** (Elsevier, IF ~10):
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=istiqlalaurangzeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=ec4899" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=istiqlalbhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=ec4899" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiqlalaurangzeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiqlalbhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=istiqlalaurangzeb&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=0EA5E9" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=istiqlalbhat&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=0EA5E9" />
 
 <br/><br/>
 
@@ -123,7 +123,7 @@ Published in **Automation in Construction** (Elsevier, IF ~10):
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=istiqlalaurangzeb&style=flat-square&color=8b5cf6&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=istiqlalbhat&style=flat-square&color=8b5cf6&label=profile+views" />
 
 **If you're building something interesting, let's talk.**
 
