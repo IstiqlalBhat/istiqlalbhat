@@ -98,19 +98,13 @@ Published in **Automation in Construction** (Elsevier, IF ~10):
 
 <br/>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=istiqlalbhat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=0ea5e9&text_color=c9d1d9&ring_color=ec4899" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiqlalbhat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=istiqlalbhat&theme=react-dark&hide_border=true&bg_color=00000000&color=c9d1d9&line=8b5cf6&point=ec4899&area=true&area_color=0ea5e9" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=istiqlalbhat&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakLabel=0EA5E9" />
-
-<br/><br/>
+<br/>
 
 <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
