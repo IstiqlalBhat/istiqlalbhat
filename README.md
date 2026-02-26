@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Gmail](https://img.shields.io/badge/-istiqlal1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:istiqlal1234@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-istiqlalaurangzeb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiqlalaurangzeb)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-istiqlalaurangzeb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiqlalbhat)&nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
 
 </div>
