@@ -93,7 +93,7 @@ Published in **Automation in Construction** (Elsevier, IF ~10):
 
 | Year | Paper | DOI |
 |------|-------|-----|
-| 2025 | **AB-CELS** — Automated building code extraction using LLM pipelines | [10.1016/j.autcon.2025.105987](https://doi.org/10.1016/j.autcon.2025.105987) |
+| 2025 | **AB-CELS** — Artificial intelligence- and blockchain-enabled carbon emissions ledger system (AB-CELS) for sustainable construction processes | [10.1016/j.autcon.2025.106286](https://doi.org/10.1016/j.autcon.2025.106286) |
 | 2024 | **BBAPS** — BIM-and Blockchain based automatic procurement system | [10.1016/j.autcon.2024.105779](https://doi.org/10.1016/j.autcon.2024.105779) |
 
 <br/>
