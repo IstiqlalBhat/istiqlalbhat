@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFFFFFCC&center=true&vCenter=true&width=620&lines=Full-stack+systems+that+ship+and+scale;Real-time+voice+AI+%C2%B7+RAG+%C2%B7+multimodal+pipelines;MS+CS+%40+Clemson+%E2%80%94+now+building+production+AI" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFFFFFCC&center=true&vCenter=true&width=620&lines=Full-stack+systems+that+ship+and+scale;Real-time+voice+AI+%C2%B7+RAG+%C2%B7+multimodal+pipelines;MS+CS+%40+Clemson+%E2%80%94+now+building+production+AI" />
 
 <br/><br/>
 
@@ -20,7 +20,7 @@
 
 SDE who obsesses over the full loop — from schema design to deploy scripts to the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
 
-**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics. Currently shipping production AI products end-to-end at **Suncoast Venture Studio**.
+**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics. I'm currently building and shipping production AI products end-to-end, and I'm **open to full-stack, backend, and AI/ML engineering roles**.
 
 <br/>
 
@@ -116,18 +116,6 @@ SDE who obsesses over the full loop — from schema design to deploy scripts to 
     </td>
   </tr>
 </table>
-
-<br/>
-
-## Featured Work
-
-**ClaimTally** — dual-platform AI insurance-claim product · web · iOS · Android
-Solo-built a 6-stage Gemini valuation pipeline (photo + voice note → priced, depreciated claim item) with two-tier perceptual-hash + pgvector dedupe, then re-platformed the entire product onto AWS-native infra in ~2 weeks with a zero-loss, parity-verified data cutover.
-`Next.js` · `React Native` · `Gemini` · `pgvector` · `Drizzle` · `Fastify` · `AWS EKS / SQS / Lambda`
-
-**Ripcurrent / myEA** — multimodal voice-AI platform · mobile · backend · web
-Solo-built a real-time Gemini Live voice agent on a hand-rolled WebSocket (16/24 kHz streaming, server VAD, barge-in, 6 in-turn tools) over a 768-dim pgvector RAG memory — 5 orchestrated AI models, a self-healing knowledge graph, and a custom Claude-powered CI code reviewer.
-`Flutter` · `Django / DRF` · `Gemini Live` · `pgvector` · `Celery` · `Docker` · `EC2`
 
 <br/>
 
