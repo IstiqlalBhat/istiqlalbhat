@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Senior+AI+engineering+%C2%B7+multimodal+RAG+%C2%B7+agentic+systems;GraphQL+%C2%B7+gRPC+%C2%B7+event-driven+backend+architecture;Pinecone+%C2%B7+ChromaDB+%C2%B7+embeddings+%C2%B7+retrieval+evals" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI+systems+end+to+end;RAG+pipelines+%C2%B7+model+serving+%C2%B7+retrieval+evals;Local+models+%C2%B7+edge+deployment+%C2%B7+production+APIs" />
 
 <br/><br/>
 
@@ -18,16 +18,17 @@
 
 ## `$ whoami`
 
-Full-stack and AI engineer working at the systems-architecture layer — from API contracts and schema design to deploy scripts and the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
+Full-stack and AI engineer who likes owning the full product loop — from API contracts and schema design to deploy scripts and the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
 
 **MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.
 
 <br/>
 
-## AI Architecture
+## AI Engineering
 
-- Architect multimodal RAG pipelines across document, image, and audio ingestion, chunking, embeddings, retrieval, reranking, evaluation, and grounded generation.
-- Build vector-search systems with Pinecone, ChromaDB, pgvector, metadata filters, semantic dedupe, and latency-aware query paths.
+- Build multimodal RAG pipelines across document, image, and audio ingestion, chunking, embeddings, retrieval, reranking, evaluation, and grounded generation.
+- Load, adapt, and deploy open-source models from Hugging Face for local, cloud, and edge-device workflows.
+- Fine-tune, distill, and quantize LLMs when a product needs lower latency, lower cost, smaller models, or offline inference.
 - Design production API platforms with GraphQL, gRPC, REST, queues, background workers, auth boundaries, and observability for AI products that need to survive real users.
 
 <br/>
@@ -84,18 +85,30 @@ Full-stack and AI engineer working at the systems-architecture layer — from AP
     </td>
   </tr>
   <tr>
-    <td><b>AI / ML</b></td>
+    <td><b>AI Engineering</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Gemini%20%2F%20Gemini%20Live-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/-OpenAI%20Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/-Multimodal%20RAG-8B5CF6?style=flat-square" />
       <img src="https://img.shields.io/badge/-Chunking%20%26%20Embeddings-0EA5E9?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Vector%20Retrieval-4169E1?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Reranking-7C3AED?style=flat-square" />
       <img src="https://img.shields.io/badge/-Retrieval%20Evals-EC4899?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Agentic%20Workflows-111827?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Tool%20Calling-475569?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Structured%20Outputs-334155?style=flat-square" />
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Model Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Hugging%20Face%20Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Local%20LLM%20Deployment-0F172A?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Edge%20AI%20Deployment-2563EB?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Model%20Serving-059669?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Fine--tuning-B45309?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Distillation-9333EA?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Quantization-DC2626?style=flat-square" />
     </td>
   </tr>
   <tr>
