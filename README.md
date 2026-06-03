@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="[https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFFFFFCC&center=true&vCenter=true&width=620&lines=Full-stack+systems+that+ship+and+scale;Real-time+voice+AI+%C2%B7+RAG+%C2%B7+multimodal+pipelines;MS+CS+%40+Clemson+%E2%80%94+now+building+production+AI](https://readme-typing-svg.demolab.com/?color=8b5cf6&center=true&width=620&lines=Full-stack+systems+that+ship+and+scale)" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Senior+AI+engineering+%C2%B7+multimodal+RAG+%C2%B7+agentic+systems;GraphQL+%C2%B7+gRPC+%C2%B7+event-driven+backend+architecture;Pinecone+%C2%B7+ChromaDB+%C2%B7+embeddings+%C2%B7+retrieval+evals" />
 
 <br/><br/>
 
@@ -18,9 +18,17 @@
 
 ## `$ whoami`
 
-SDE who obsesses over the full loop — from schema design to deploy scripts to the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
+Full-stack and AI engineer working at the systems-architecture layer — from API contracts and schema design to deploy scripts and the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
 
-**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.**.
+**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.
+
+<br/>
+
+## AI Architecture
+
+- Architect multimodal RAG pipelines across document, image, and audio ingestion, chunking, embeddings, retrieval, reranking, evaluation, and grounded generation.
+- Build vector-search systems with Pinecone, ChromaDB, pgvector, metadata filters, semantic dedupe, and latency-aware query paths.
+- Design production API platforms with GraphQL, gRPC, REST, queues, background workers, auth boundaries, and observability for AI products that need to survive real users.
 
 <br/>
 
@@ -68,6 +76,8 @@ SDE who obsesses over the full loop — from schema design to deploy scripts to 
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/-Django%20%2F%20DRF-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-gRPC-244C5A?style=flat-square" />
       <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
       <img src="https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
       <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
@@ -81,6 +91,9 @@ SDE who obsesses over the full loop — from schema design to deploy scripts to 
       <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Multimodal%20RAG-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Chunking%20%26%20Embeddings-0EA5E9?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Retrieval%20Evals-EC4899?style=flat-square" />
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
     </td>
@@ -90,6 +103,8 @@ SDE who obsesses over the full loop — from schema design to deploy scripts to 
     <td>
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/-pgvector%20(RAG)-4169E1?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/-ChromaDB-FFDE59?style=flat-square" />
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
