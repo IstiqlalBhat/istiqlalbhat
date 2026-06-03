@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFFFFFCC&center=true&vCenter=true&width=620&lines=Full-stack+systems+that+ship+and+scale;Real-time+voice+AI+%C2%B7+RAG+%C2%B7+multimodal+pipelines;MS+CS+%40+Clemson+%E2%80%94+now+building+production+AI" />
+<img src="[https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=FFFFFFCC&center=true&vCenter=true&width=620&lines=Full-stack+systems+that+ship+and+scale;Real-time+voice+AI+%C2%B7+RAG+%C2%B7+multimodal+pipelines;MS+CS+%40+Clemson+%E2%80%94+now+building+production+AI](https://readme-typing-svg.demolab.com/?color=8b5cf6&center=true&width=620&lines=Full-stack+systems+that+ship+and+scale)" />
 
 <br/><br/>
 
