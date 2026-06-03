@@ -20,7 +20,7 @@
 
 SDE who obsesses over the full loop — from schema design to deploy scripts to the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
 
-**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics. I'm currently building and shipping production AI products end-to-end, and I'm **open to full-stack, backend, and AI/ML engineering roles**.
+**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.**.
 
 <br/>
 
