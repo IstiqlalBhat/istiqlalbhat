@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=220&section=header&text=Istiqlal%20Aurangzeb&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:1a7f37,100:3fb950&height=200&section=header&text=Istiqlal%20Aurangzeb&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLMOps&descAlignY=58&descSize=16" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI+systems+end+to+end;RAG+pipelines+%C2%B7+model+serving+%C2%B7+retrieval+evals;Local+models+%C2%B7+edge+deployment+%C2%B7+production+APIs" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=820&height=45&lines=Full-stack+%2B+AI+engineer+who+ships+the+whole+loop;Multimodal+RAG+%C2%B7+vLLM+%C2%B7+Ollama+%C2%B7+LangGraph+%C2%B7+LlamaIndex;MS+CS+%40+Clemson+%C2%B7+4+peer-reviewed+papers" />
 
 <br/><br/>
 
-[![Gmail](https://img.shields.io/badge/-istiqlal1234@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:istiqlal1234@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-istiqlalbhat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiqlalbhat)&nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
+[![Gmail](https://img.shields.io/badge/-istiqlal1234@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:istiqlal1234@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-istiqlalbhat-161b22?style=for-the-badge&logo=linkedin&logoColor=3fb950)](https://www.linkedin.com/in/istiqlalbhat)&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=3fb950)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
 
 </div>
 
@@ -18,167 +18,174 @@
 
 ## `$ whoami`
 
+<img align="right" width="370" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 Full-stack and AI engineer who likes owning the full product loop — from API contracts and schema design to deploy scripts and the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
 
 **MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.
 
+<br clear="right"/>
+
+## `$ cat ai-engineering.md`
+
+- Build **multimodal RAG** end to end — document, image, and audio ingestion, chunking, embeddings, hybrid retrieval, reranking, and grounded generation — orchestrated with **LlamaIndex** and **LangGraph**, and measured with **Ragas**, **LangSmith**, and **Weights & Biases**.
+- Serve open-weight models from **Hugging Face** locally and in production with **vLLM**, **Ollama**, and **llama.cpp**; push on-device inference with **ONNX Runtime**, **TensorRT**, and **Core ML**.
+- Adapt models for lower latency and cost — **LoRA / QLoRA** fine-tuning, distillation, and **GGUF / GPTQ** quantization for offline and edge workloads.
+- Design production API platforms — **GraphQL**, **gRPC**, **REST**, queues, background workers, auth boundaries, and observability — so AI features survive real traffic.
+
 <br/>
 
-## AI Engineering
-
-- Build multimodal RAG pipelines across document, image, and audio ingestion, chunking, embeddings, retrieval, reranking, evaluation, and grounded generation.
-- Load, adapt, and deploy open-source models from Hugging Face for local, cloud, and edge-device workflows.
-- Fine-tune, distill, and quantize LLMs when a product needs lower latency, lower cost, smaller models, or offline inference.
-- Design production API platforms with GraphQL, gRPC, REST, queues, background workers, auth boundaries, and observability for AI products that need to survive real users.
-
-<br/>
-
-## Tech Stack
+## `$ ls ~/stack`
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/Languages-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQL-31648C?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Dart-161b22?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Swift-161b22?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C%23-161b22?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/-C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SQL-161b22?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/Frontend-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-      <img src="https://img.shields.io/badge/-WebGPU-005A9C?style=flat-square" />
+      <img src="https://img.shields.io/badge/-React-161b22?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Framer%20Motion-161b22?style=flat-square&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GLSL-161b22?style=flat-square&logo=opengl&logoColor=white" />
+      <img src="https://img.shields.io/badge/-WebGPU-161b22?style=flat-square&logo=webgpu&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Mobile</b></td>
+    <td><img src="https://img.shields.io/badge/Mobile-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/-Riverpod-0098E5?style=flat-square" />
-      <img src="https://img.shields.io/badge/-EAS%20Build-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Expo-161b22?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/-React%20Native-161b22?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Riverpod-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/-EAS%20Build-161b22?style=flat-square&logo=expo&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Backend-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Django%20%2F%20DRF-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-gRPC-244C5A?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Django%20%2F%20DRF-161b22?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Fastify-161b22?style=flat-square&logo=fastify&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GraphQL-161b22?style=flat-square&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-gRPC-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Celery-161b22?style=flat-square&logo=celery&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Drizzle%20ORM-161b22?style=flat-square&logo=drizzle&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Gunicorn-161b22?style=flat-square&logo=gunicorn&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>AI Engineering</b></td>
+    <td><img src="https://img.shields.io/badge/AI%20Engineering-3fb950?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-Multimodal%20RAG-8B5CF6?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Chunking%20%26%20Embeddings-0EA5E9?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Vector%20Retrieval-4169E1?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Reranking-7C3AED?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Retrieval%20Evals-EC4899?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Agentic%20Workflows-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Tool%20Calling-475569?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Structured%20Outputs-334155?style=flat-square" />
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-Hugging%20Face-161b22?style=flat-square&logo=huggingface&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-Transformers-161b22?style=flat-square&logo=huggingface&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-LangGraph-161b22?style=flat-square&logo=langchain&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-LlamaIndex-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Ragas-161b22?style=flat-square&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-LangSmith-161b22?style=flat-square&logo=langchain&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-Weights%20%26%20Biases-161b22?style=flat-square&logo=weightsandbiases&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=3fb950" />
     </td>
   </tr>
   <tr>
-    <td><b>Model Deployment</b></td>
+    <td><img src="https://img.shields.io/badge/LLMOps-3fb950?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-Hugging%20Face%20Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Local%20LLM%20Deployment-0F172A?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Edge%20AI%20Deployment-2563EB?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Model%20Serving-059669?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Fine--tuning-B45309?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Distillation-9333EA?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Quantization-DC2626?style=flat-square" />
+      <img src="https://img.shields.io/badge/-vLLM-161b22?style=flat-square&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-Ollama-161b22?style=flat-square&logo=ollama&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-llama.cpp-161b22?style=flat-square&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-ONNX%20Runtime-161b22?style=flat-square&logo=onnx&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-TensorRT-161b22?style=flat-square&logo=nvidia&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-Core%20ML-161b22?style=flat-square&logo=apple&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-LoRA%20%2F%20QLoRA-161b22?style=flat-square&logoColor=3fb950" />
+      <img src="https://img.shields.io/badge/-GGUF-161b22?style=flat-square&logoColor=3fb950" />
     </td>
   </tr>
   <tr>
-    <td><b>Data & Auth</b></td>
+    <td><img src="https://img.shields.io/badge/Data%20%26%20Auth-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-pgvector%20(RAG)-4169E1?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/-ChromaDB-FFDE59?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Better%20Auth-1A1A1A?style=flat-square" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-pgvector-161b22?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Pinecone-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/-ChromaDB-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Redis-161b22?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Supabase-161b22?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Firebase-161b22?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Better%20Auth-161b22?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>Infra & DevOps</b></td>
+    <td><img src="https://img.shields.io/badge/Infra%20%26%20DevOps-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/-LocalStack-4D2EFF?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-161b22?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-161b22?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LocalStack-161b22?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Git-161b22?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>Testing</b></td>
+    <td><img src="https://img.shields.io/badge/Testing-238636?style=flat-square" /></td>
     <td>
-      <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/-pytest-161b22?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vitest-161b22?style=flat-square&logo=vitest&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Playwright-161b22?style=flat-square&logo=playwright&logoColor=white" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-## What I'm About
+## `$ cat principles.md`
 
-```
-🔨  I default to building, not theorizing
-📐  I treat clean architecture as a feature, not a luxury
-⚡  I measure success in latency, uptime, and user retention
-🧪  I prototype fast, then harden what works
+```text
+→ default to building, not theorizing
+→ clean architecture is a feature, not a luxury
+→ success is measured in latency, uptime, and retention
+→ prototype fast, then harden what works
 ```
 
 <br/>
 
-## Publications
+## `$ cat publications.bib`
 
-Published in **Automation in Construction** (Elsevier, IF ~10):
+> Peer-reviewed research at the intersection of **construction informatics, AI, and blockchain** — published in *Automation in Construction* (Elsevier, IF ≈ 10), *Architectural Engineering & Design Management* (Taylor & Francis), and *Advances in Science and Technology* (Trans Tech).
 
-| Year | Paper | DOI |
-|------|-------|-----|
-| 2025 | **AB-CELS** — Artificial intelligence- and blockchain-enabled carbon emissions ledger system (AB-CELS) for sustainable construction processes | [10.1016/j.autcon.2025.106286](https://doi.org/10.1016/j.autcon.2025.106286) |
-| 2024 | **BBAPS** — BIM-and Blockchain based automatic procurement system | [10.1016/j.autcon.2024.105779](https://doi.org/10.1016/j.autcon.2024.105779) |
+| Year | Paper | Venue | |
+|:----:|-------|-------|:--:|
+| 2026 | **Transformational emissions accounting** using BIM- and blockchain-enabled smart contracts for building structural materials | Architectural Engineering & Design Management · T&F | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.1080/17452007.2026.2632102) |
+| 2026 | **Advancing Active-Shooter Evacuation Systems** in the Built Environment: A Systematic Review and Future Directions | Advances in Science and Technology · Trans Tech | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.4028/p-oG7g3d) |
+| 2025 | **AB-CELS** — AI- and blockchain-enabled carbon emissions ledger system for sustainable construction | Automation in Construction · Elsevier | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.1016/j.autcon.2025.106286) |
+| 2024 | **BBAPS** — BIM- and blockchain-enabled Automatic Procurement System removing relationship bias | Automation in Construction · Elsevier | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.1016/j.autcon.2024.105779) |
 
 <br/>
 
-## GitHub Activity
+## `$ git log --graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=istiqlalbhat&theme=react-dark&hide_border=true&bg_color=00000000&color=c9d1d9&line=8b5cf6&point=ec4899&area=true&area_color=0ea5e9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=istiqlalbhat&hide_border=true&bg_color=00000000&color=c9d1d9&line=3fb950&point=56d364&area=true&area_color=238636" />
 
 <br/>
 
-<img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/istiqlalbhat/istiqlalbhat/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/istiqlalbhat/istiqlalbhat/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/istiqlalbhat/istiqlalbhat/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -188,10 +195,10 @@ Published in **Automation in Construction** (Elsevier, IF ~10):
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=istiqlalbhat&style=flat-square&color=8b5cf6&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=istiqlalbhat&style=flat-square&color=3fb950&label=profile+views" />
 
 **If you're building something interesting, let's talk.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:1a7f37,100:0a0e14&height=120&section=footer" />
