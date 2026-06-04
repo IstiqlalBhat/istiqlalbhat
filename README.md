@@ -175,11 +175,11 @@ Full-stack and AI engineer who likes owning the full product loop — from API c
 
 ## `$ cat patents.txt`
 
-> **Patent pending** — U.S. patent application, published April 2026 (co-inventors Sean McNamara & Jong Han Yoon).
+> U.S. patent — co-inventors Sean McNamara & Jong Han Yoon.
 
-| Status | Invention | Reference | |
-|:------:|-----------|-----------|:--:|
-| Pending | **Immutable ledger enabled automatic procurement system** — blockchain-enabled smart contracts that keep subcontractor identities anonymous during bid evaluation | Pub. US 2026/0099817 A1 · App. 19/352,609 | [![Google Patents](https://img.shields.io/badge/Google%20Patents-161b22?style=flat-square&logo=google&logoColor=3fb950)](https://patents.google.com/patent/US20260099817A1/en) |
+| Year | Invention | Reference | |
+|:----:|-----------|-----------|:--:|
+| 2026 | **Immutable ledger enabled automatic procurement system** — blockchain-enabled smart contracts that keep subcontractor identities anonymous during bid evaluation | US 2026/0099817 A1 | [![Google Patents](https://img.shields.io/badge/Google%20Patents-161b22?style=flat-square&logo=google&logoColor=3fb950)](https://patents.google.com/patent/US20260099817A1/en) |
 
 <br/>
 
