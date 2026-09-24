@@ -29,16 +29,6 @@ Full-stack and AI engineer who likes owning the full product loop — from API c
 
 **MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.
 
-<br clear="right"/>
-
-## `$ cat ai-engineering.md`
-
-- Build **multimodal RAG** end to end — document, image, and audio ingestion, chunking, embeddings, hybrid retrieval, reranking, and grounded generation — orchestrated with **LlamaIndex** and **LangGraph**, and measured with **Ragas**, **LangSmith**, and **Weights & Biases**.
-- Serve open-weight models from **Hugging Face** locally and in production with **vLLM**, **Ollama**, and **llama.cpp**; push on-device inference with **ONNX Runtime**, **TensorRT**, and **Core ML**.
-- Adapt models for lower latency and cost — **LoRA / QLoRA** fine-tuning, distillation, and **GGUF / GPTQ** quantization for offline and edge workloads.
-- Design production API platforms — **GraphQL**, **gRPC**, **REST**, queues, background workers, auth boundaries, and observability — so AI features survive real traffic.
-
-<br/>
 
 ## `$ ls ~/stack`
 
