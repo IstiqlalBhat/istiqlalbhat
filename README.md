@@ -18,7 +18,12 @@
 
 ## `$ whoami`
 
-<img align="right" width="370" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<a href="https://www.istiqlalaurangzeb.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dither-dark.webp">
+    <img align="right" width="370" alt="Istiqlal Aurangzeb in cap and gown at Clemson University, drawn in 1-bit dither dots" src="./assets/portrait-dither-light.webp">
+  </picture>
+</a>
 
 Full-stack and AI engineer who likes owning the full product loop — from API contracts and schema design to deploy scripts and the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
 
