@@ -1,190 +1,137 @@
-<div align="center">
+```console
+$ ssh guest@istiqlalaurangzeb.com
+   _     __  _      __     __                                       __
+  (_)__ / /_(_)__ _/ /__ _/ / ___ ___ _________ ____  ___ ____ ___ / /
+ / (_-</ __/ / _ `/ / _ `/ / / _ `/ // / __/ _ `/ _ \/ _ `/_ // -_) _ \
+/_/___/\__/_/\_, /_/\_,_/_/  \_,_/\_,_/_/  \_,_/_//_/\_, //__/\__/_.__/
+              /_/                                   /___/
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:1a7f37,100:3fb950&height=200&section=header&text=Istiqlal%20Aurangzeb&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLMOps&descAlignY=58&descSize=16" />
+guest@istiqlalaurangzeb.com's password:
+Linux istiqlal 6.1.0-25-amd64 #1 SMP Debian 6.1.106-3 x86_64
 
-<br/>
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=820&height=45&lines=Full-stack+%2B+AI+engineer+who+ships+the+whole+loop;Multimodal+RAG+%C2%B7+vLLM+%C2%B7+Ollama+%C2%B7+LangGraph+%C2%B7+LlamaIndex;MS+CS+%40+Clemson+%C2%B7+4+peer-reviewed+papers" />
-
-<br/><br/>
-
-[![Gmail](https://img.shields.io/badge/-istiqlal1234@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:istiqlal1234@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-istiqlalbhat-161b22?style=for-the-badge&logo=linkedin&logoColor=3fb950)](https://www.linkedin.com/in/istiqlalbhat)&nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-161b22?style=for-the-badge&logo=googlescholar&logoColor=3fb950)](https://scholar.google.com/citations?user=v4-8HccAAAAJ)
-
-</div>
-
-<br/>
-
-## `$ whoami`
+guest@istiqlal:~$ neofetch
+```
 
 <a href="https://www.istiqlalaurangzeb.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/portrait-dither-dark.webp">
-    <img align="right" width="370" alt="Istiqlal Aurangzeb in cap and gown at Clemson University, drawn in 1-bit dither dots" src="./assets/portrait-dither-light.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg">
+    <img alt="neofetch for guest@istiqlal: a dithered portrait of Istiqlal Aurangzeb next to system info. AI Engineer at Suncoast Venture Studio. MS CS, Clemson University (2025). 4 peer-reviewed papers, 1 pending U.S. patent application." src="./assets/neofetch-light.svg">
   </picture>
 </a>
 
-Full-stack and AI engineer who likes owning the full product loop — from API contracts and schema design to deploy scripts and the loading spinner the user actually sees. I build across **backend APIs**, **data-intensive web & mobile frontends**, **real-time + multimodal AI/RAG pipelines**, and **cloud infrastructure & developer tooling**, and I care most about the things that are hardest to fake: reliability under load, clean abstractions, and software people actually want to use.
+[`email`](mailto:istiqlal1234@gmail.com) [`linkedin`](https://www.linkedin.com/in/istiqlalbhat) [`scholar`](https://scholar.google.com/citations?user=v4-8HccAAAAJ) [`site`](https://www.istiqlalaurangzeb.com/)
 
-**MS in Computer Science from Clemson University** (Dec 2025), with published research in automation and construction informatics.
-
-
-## `$ ls ~/stack`
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Languages-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/-JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Dart-161b22?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Swift-161b22?style=flat-square&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C%23-161b22?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQL-161b22?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Frontend-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-React-161b22?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Framer%20Motion-161b22?style=flat-square&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GLSL-161b22?style=flat-square&logo=opengl&logoColor=white" />
-      <img src="https://img.shields.io/badge/-WebGPU-161b22?style=flat-square&logo=webgpu&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Mobile-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Flutter-161b22?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Expo-161b22?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/-React%20Native-161b22?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Riverpod-161b22?style=flat-square" />
-      <img src="https://img.shields.io/badge/-EAS%20Build-161b22?style=flat-square&logo=expo&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Backend-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/-FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Django%20%2F%20DRF-161b22?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Fastify-161b22?style=flat-square&logo=fastify&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GraphQL-161b22?style=flat-square&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-gRPC-161b22?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Celery-161b22?style=flat-square&logo=celery&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Drizzle%20ORM-161b22?style=flat-square&logo=drizzle&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Gunicorn-161b22?style=flat-square&logo=gunicorn&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/AI%20Engineering-3fb950?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-Hugging%20Face-161b22?style=flat-square&logo=huggingface&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-Transformers-161b22?style=flat-square&logo=huggingface&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-LangGraph-161b22?style=flat-square&logo=langchain&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-LlamaIndex-161b22?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Ragas-161b22?style=flat-square&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-LangSmith-161b22?style=flat-square&logo=langchain&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-Weights%20%26%20Biases-161b22?style=flat-square&logo=weightsandbiases&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=3fb950" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/LLMOps-3fb950?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-vLLM-161b22?style=flat-square&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-Ollama-161b22?style=flat-square&logo=ollama&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-llama.cpp-161b22?style=flat-square&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-ONNX%20Runtime-161b22?style=flat-square&logo=onnx&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-TensorRT-161b22?style=flat-square&logo=nvidia&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-Core%20ML-161b22?style=flat-square&logo=apple&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-LoRA%20%2F%20QLoRA-161b22?style=flat-square&logoColor=3fb950" />
-      <img src="https://img.shields.io/badge/-GGUF-161b22?style=flat-square&logoColor=3fb950" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Data%20%26%20Auth-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-pgvector-161b22?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Pinecone-161b22?style=flat-square" />
-      <img src="https://img.shields.io/badge/-ChromaDB-161b22?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Redis-161b22?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Supabase-161b22?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Firebase-161b22?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Better%20Auth-161b22?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Infra%20%26%20DevOps-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Docker-161b22?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GitHub%20Actions-161b22?style=flat-square&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/-LocalStack-161b22?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Git-161b22?style=flat-square&logo=git&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Testing-238636?style=flat-square" /></td>
-    <td>
-      <img src="https://img.shields.io/badge/-pytest-161b22?style=flat-square&logo=pytest&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Vitest-161b22?style=flat-square&logo=vitest&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Playwright-161b22?style=flat-square&logo=playwright&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## `$ cat principles.md`
-
-```text
-→ default to building, not theorizing
-→ clean architecture is a feature, not a luxury
-→ success is measured in latency, uptime, and retention
-→ prototype fast, then harden what works
+```console
+guest@istiqlal:~$ ls -F
+about.txt  patents.txt  principles.txt  publications.txt  stack/
 ```
 
-<br/>
+```console
+guest@istiqlal:~$ cat about.txt
+I'm an AI engineer at Suncoast Venture Studio. I build AI features such
+as RAG pipelines and agents, and I work across the full stack to ship
+them, from backend APIs to web and mobile frontends. I also handle the
+infrastructure side: containerizing services with Docker, deploying them
+on Kubernetes, managing AWS resources with Terraform, and setting up
+CI/CD with GitHub Actions.
 
-## `$ cat publications.bib`
+I like owning projects end to end, from the database schema to the
+interface people use, and I care about how they perform and hold up
+after launch.
 
-> Peer-reviewed research at the intersection of **construction informatics, AI, and blockchain** — published in *Automation in Construction* (Elsevier, IF ≈ 10), *Architectural Engineering & Design Management* (Taylor & Francis), and *Advances in Science and Technology* (Trans Tech).
+I hold an MS in Computer Science from Clemson University (December
+2025). At Clemson, I worked as a research software developer, building
+AI- and blockchain-based systems for the construction industry,
+including a carbon emissions ledger and an automated procurement system
+that removes relationship bias from bid evaluation. That research led to
+four peer-reviewed publications and a pending U.S. patent application.
+```
 
-| Year | Paper | Venue | |
-|:----:|-------|-------|:--:|
-| 2026 | **Transformational emissions accounting** using BIM- and blockchain-enabled smart contracts for building structural materials | Architectural Engineering & Design Management · T&F | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.1080/17452007.2026.2632102) |
-| 2026 | **Advancing Active-Shooter Evacuation Systems** in the Built Environment: A Systematic Review and Future Directions | Advances in Science and Technology · Trans Tech | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.4028/p-oG7g3d) |
-| 2025 | **AB-CELS** — AI- and blockchain-enabled carbon emissions ledger system for sustainable construction | Automation in Construction · Elsevier | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.1016/j.autcon.2025.106286) |
-| 2024 | **BBAPS** — BIM- and blockchain-enabled Automatic Procurement System removing relationship bias | Automation in Construction · Elsevier | [![DOI](https://img.shields.io/badge/DOI-161b22?style=flat-square&logo=doi&logoColor=3fb950)](https://doi.org/10.1016/j.autcon.2024.105779) |
+```console
+guest@istiqlal:~$ tree ~/stack
+~/stack
+├── ai .............. PyTorch · Hugging Face · LangGraph · LlamaIndex
+│                     Ragas · LangSmith · Weights & Biases
+│                     scikit-learn
+├── llmops .......... vLLM · Ollama · llama.cpp · ONNX Runtime
+│                     TensorRT · Core ML · LoRA/QLoRA · GGUF
+├── languages ....... Python · TypeScript · JavaScript · Dart · Swift
+│                     C# · C++ · SQL
+├── frontend ........ React · Next.js · Tailwind CSS · Framer Motion
+│                     GLSL · WebGPU
+├── mobile .......... Flutter · Expo · React Native · Riverpod
+│                     EAS Build
+├── backend ......... Node.js · FastAPI · Django/DRF · Fastify · GraphQL
+│                     gRPC · Celery · Drizzle ORM · Gunicorn
+├── data ............ PostgreSQL · pgvector · Pinecone · ChromaDB
+│                     Redis · Supabase · Firebase · Better Auth
+├── infrastructure .. AWS · Kubernetes · Terraform · Docker
+│                     GitHub Actions · LocalStack
+├── blockchain ...... Solidity · Hardhat · ethers.js · Web3.js
+└── testing ......... pytest · Vitest · Playwright
 
-<br/>
+10 directories, 65 files
+```
 
-## `$ cat patents.txt`
+```console
+guest@istiqlal:~$ cat principles.txt
+→ Start with a working version, then let real usage guide the next
+  iteration.
+→ Keep the architecture simple enough to change as requirements evolve.
+→ Measure success by latency, uptime, and user retention.
+→ Harden what people depend on with tests, monitoring, and clear
+  documentation.
+```
 
-> U.S. patent — co-inventors Sean McNamara & Jong Han Yoon.
+```console
+guest@istiqlal:~$ cat publications.txt
+[1] 2026  Transformational emissions accounting system using BIM- and
+          blockchain-enabled smart contracts for building structural
+          materials
+          J. H. Yoon, I. Aurangzeb
+          Architectural Engineering and Design Management (T&F), vol. 22
+          doi:10.1080/17452007.2026.2632102
 
-| Year | Invention | Reference | |
-|:----:|-----------|-----------|:--:|
-| 2026 | **Immutable ledger enabled automatic procurement system** — blockchain-enabled smart contracts that keep subcontractor identities anonymous during bid evaluation | US 2026/0099817 A1 | [![Google Patents](https://img.shields.io/badge/Google%20Patents-161b22?style=flat-square&logo=google&logoColor=3fb950)](https://patents.google.com/patent/US20260099817A1/en) |
+[2] 2026  Advancing Active Shooter Evacuation Systems in the Built
+          Environment: A Systematic Review and Future Directions
+          J. H. Yoon, S. R. Arshid, I. Aurangzeb
+          Advances in Science and Technology (Trans Tech), vol. 173
+          doi:10.4028/p-oG7g3d
 
-<br/>
+[3] 2025  Artificial intelligence- and blockchain-enabled carbon
+          emissions ledger system (AB-CELS) for sustainable construction
+          processes
+          I. Aurangzeb, J. H. Yoon
+          Automation in Construction (Elsevier), vol. 176
+          doi:10.1016/j.autcon.2025.106286
 
-## `$ git log --graph`
+[4] 2024  BIM- and blockchain-enabled Automatic Procurement System
+          (BBAPS) removing relationship bias
+          J. H. Yoon, I. Aurangzeb, S. McNamara
+          Automation in Construction (Elsevier), vol. 168
+          doi:10.1016/j.autcon.2024.105779
+```
 
-<div align="center">
+[`open [1]`](https://doi.org/10.1080/17452007.2026.2632102) [`open [2]`](https://doi.org/10.4028/p-oG7g3d) [`open [3]`](https://doi.org/10.1016/j.autcon.2025.106286) [`open [4]`](https://doi.org/10.1016/j.autcon.2024.105779)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=istiqlalbhat&hide_border=true&bg_color=00000000&color=c9d1d9&line=3fb950&point=56d364&area=true&area_color=238636" />
+```console
+guest@istiqlal:~$ cat patents.txt
+[pending]  US 2026/0099817 A1
+           Immutable ledger enabled automatic procurement system
+           Blockchain smart contracts that keep subcontractor identities
+           anonymous while bids are evaluated.
+           Inventors: Sean McNamara, Istiqlal Aurangzeb, Jong Han Yoon
+```
 
-<br/>
+[`open patent`](https://patents.google.com/patent/US20260099817A1/en)
+
+```console
+guest@istiqlal:~$ git log --graph
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/istiqlalbhat/istiqlalbhat/output/github-contribution-grid-snake-dark.svg" />
@@ -192,18 +139,11 @@ Full-stack and AI engineer who likes owning the full product loop — from API c
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/istiqlalbhat/istiqlalbhat/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
+```console
+guest@istiqlal:~$ cat ~istiqlal/.plan
+If you're building something interesting, let's talk.
 
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=istiqlalbhat&style=flat-square&color=3fb950&label=profile+views" />
-
-**If you're building something interesting, let's talk.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:1a7f37,100:0a0e14&height=120&section=footer" />
+guest@istiqlal:~$ exit
+logout
+Connection to istiqlalaurangzeb.com closed.
+```
