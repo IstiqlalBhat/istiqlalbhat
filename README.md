@@ -9,9 +9,9 @@ $ ssh guest@istiqlalaurangzeb.com
 guest@istiqlalaurangzeb.com's password:
 Linux istiqlal 6.1.0-25-amd64 #1 SMP Debian 6.1.106-3 x86_64
 
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
+AI engineer. I ship production AI end to end: agents, RAG, voice and
+vision, plus the cloud infrastructure that runs them.
+412 pull requests merged since March 2026.
 
 guest@istiqlal:~$ neofetch
 ```
@@ -19,20 +19,21 @@ guest@istiqlal:~$ neofetch
 <a href="https://www.istiqlalaurangzeb.com/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg">
-    <img alt="neofetch for guest@istiqlal: a dithered portrait of Istiqlal Aurangzeb next to system info. AI Engineer at Suncoast Venture Studio. MS CS, Clemson University (2025). 4 peer-reviewed papers, 1 pending U.S. patent application." src="./assets/neofetch-light.svg">
+    <img alt="neofetch for guest@istiqlal: a dithered portrait of Istiqlal Aurangzeb next to system info. AI Engineer at an AI venture studio. MS CS, Clemson University (2025). 4 peer-reviewed papers, 1 pending U.S. patent application." src="./assets/neofetch-light.svg">
   </picture>
 </a>
 
-[`email`](mailto:istiqlal1234@gmail.com) [`linkedin`](https://www.linkedin.com/in/istiqlalbhat) [`scholar`](https://scholar.google.com/citations?user=v4-8HccAAAAJ) [`site`](https://www.istiqlalaurangzeb.com/)
+[`linkedin`](https://www.linkedin.com/in/istiqlalbhat) [`scholar`](https://scholar.google.com/citations?user=v4-8HccAAAAJ) [`site`](https://www.istiqlalaurangzeb.com/)
 
 ```console
 guest@istiqlal:~$ ls -F
-about.txt  patents.txt  principles.txt  publications.txt  stack/
+about.txt    principles.txt  publications.txt  stack/
+patents.txt  projects.txt    shipped.log
 ```
 
 ```console
 guest@istiqlal:~$ cat about.txt
-I'm an AI engineer at Suncoast Venture Studio. I build AI features such
+I'm an AI engineer at an AI venture studio. I build AI features such
 as RAG pipelines and agents, and I work across the full stack to ship
 them, from backend APIs to web and mobile frontends. I also handle the
 infrastructure side: containerizing services with Docker, deploying them
@@ -52,11 +53,57 @@ four peer-reviewed publications and a pending U.S. patent application.
 ```
 
 ```console
+guest@istiqlal:~$ cat shipped.log
+Highlights from production work since March 2026:
+
+[vision]    Two-pass vision pipeline (detect, then identify each object
+            from a full-resolution crop) for a home-inventory product
+            used in insurance claims. Validated on held-out,
+            human-labelled photos: exact-count rate 81% → 83%.
+[voice]     Moved a voice assistant with long-term memory from GPT-4o
+            Realtime to Gemini Live, cutting the audio flush threshold
+            from ~1.5 s to ~0.3 s, and gave it pgvector recall over
+            past sessions.
+[cloud]     Re-platformed the inventory product onto AWS EKS with
+            Terraform. Long LLM jobs run on SQS workers that stream
+            progress over SSE and stay correct under at-least-once
+            delivery.
+[agents]    A multi-tenant platform that gives every workspace its own
+            team of AI agents on Kubernetes. I built its registration
+            control plane and per-tenant agent rosters, and fenced
+            provisioning so stale queue messages can't touch a
+            replacement workspace.
+[security]  Meeting transcripts reach AI agents only through a
+            deny-by-default allowlist, with per-user OAuth and tenants
+            isolated by Postgres row-level security.
+```
+
+```console
+guest@istiqlal:~$ cat projects.txt
+evil-llm       Turns Qwen3.5-4B "evil" by pushing two neurons, with no
+               system prompt, and maps what the push changes, word by
+               word, in live 3D.
+               Python · PyTorch · Transformers · FastAPI · three.js
+
+revit-agentic  Lets AI assistants such as Claude read, create and edit
+               Autodesk Revit models over MCP: a TypeScript MCP server
+               plus a C# Revit add-in, published on npm.
+               TypeScript · C# · MCP
+
+portfolio2     My engineering story, built from my GitHub history as a
+               scroll-driven 3D timeline.
+               JavaScript · three.js · Vite
+```
+
+[`open evil-llm`](https://github.com/IstiqlalBhat/evil-llm) [`open revit-agentic`](https://github.com/IstiqlalBhat/revit-agentic) [`open portfolio2`](https://istiqlalbhat.github.io/portfolio2/)
+
+```console
 guest@istiqlal:~$ tree ~/stack
 ~/stack
 ├── ai .............. PyTorch · Hugging Face · LangGraph · LlamaIndex
 │                     Ragas · LangSmith · Weights & Biases
-│                     scikit-learn
+│                     scikit-learn · MCP
+├── llm-apis ........ Gemini · Gemini Live · OpenAI Realtime · Claude
 ├── llmops .......... vLLM · Ollama · llama.cpp · ONNX Runtime
 │                     TensorRT · Core ML · LoRA/QLoRA · GGUF
 ├── languages ....... Python · TypeScript · JavaScript · Dart · Swift
@@ -69,12 +116,12 @@ guest@istiqlal:~$ tree ~/stack
 │                     gRPC · Celery · Drizzle ORM · Gunicorn
 ├── data ............ PostgreSQL · pgvector · Pinecone · ChromaDB
 │                     Redis · Supabase · Firebase · Better Auth
-├── infrastructure .. AWS · Kubernetes · Terraform · Docker
+├── infrastructure .. AWS · Kubernetes · Helm · Terraform · Docker
 │                     GitHub Actions · LocalStack
 ├── blockchain ...... Solidity · Hardhat · ethers.js · Web3.js
 └── testing ......... pytest · Vitest · Playwright
 
-10 directories, 65 files
+11 directories, 71 files
 ```
 
 ```console
@@ -92,28 +139,24 @@ guest@istiqlal:~$ cat publications.txt
 [1] 2026  Transformational emissions accounting system using BIM- and
           blockchain-enabled smart contracts for building structural
           materials
-          J. H. Yoon, I. Aurangzeb
           Architectural Engineering and Design Management (T&F), vol. 22
-          doi:10.1080/17452007.2026.2632102
+          co-author · doi:10.1080/17452007.2026.2632102
 
 [2] 2026  Advancing Active Shooter Evacuation Systems in the Built
           Environment: A Systematic Review and Future Directions
-          J. H. Yoon, S. R. Arshid, I. Aurangzeb
           Advances in Science and Technology (Trans Tech), vol. 173
-          doi:10.4028/p-oG7g3d
+          co-author · doi:10.4028/p-oG7g3d
 
 [3] 2025  Artificial intelligence- and blockchain-enabled carbon
           emissions ledger system (AB-CELS) for sustainable construction
           processes
-          I. Aurangzeb, J. H. Yoon
           Automation in Construction (Elsevier), vol. 176
-          doi:10.1016/j.autcon.2025.106286
+          first author · doi:10.1016/j.autcon.2025.106286
 
 [4] 2024  BIM- and blockchain-enabled Automatic Procurement System
-          (BBAPS) removing relationship bias
-          J. H. Yoon, I. Aurangzeb, S. McNamara
+          removing relationship bias
           Automation in Construction (Elsevier), vol. 168
-          doi:10.1016/j.autcon.2024.105779
+          co-author · doi:10.1016/j.autcon.2024.105779
 ```
 
 [`open [1]`](https://doi.org/10.1080/17452007.2026.2632102) [`open [2]`](https://doi.org/10.4028/p-oG7g3d) [`open [3]`](https://doi.org/10.1016/j.autcon.2025.106286) [`open [4]`](https://doi.org/10.1016/j.autcon.2024.105779)
@@ -124,7 +167,7 @@ guest@istiqlal:~$ cat patents.txt
            Immutable ledger enabled automatic procurement system
            Blockchain smart contracts that keep subcontractor identities
            anonymous while bids are evaluated.
-           Inventors: Sean McNamara, Istiqlal Aurangzeb, Jong Han Yoon
+           co-inventor
 ```
 
 [`open patent`](https://patents.google.com/patent/US20260099817A1/en)
