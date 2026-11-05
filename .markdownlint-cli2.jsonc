@@ -1,0 +1,10 @@
+{
+  "config": {
+    // Console transcripts, link rows and <picture> tags run long by design.
+    "MD013": false,
+    // <picture> switches the images with the GitHub light/dark theme.
+    "MD033": false,
+    // The profile opens with a terminal session, not a heading.
+    "MD041": false
+  }
+}

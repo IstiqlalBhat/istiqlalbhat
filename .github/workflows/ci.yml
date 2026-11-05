@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+    branches-ignore:
+      - output
+  pull_request:
+  workflow_dispatch:
+  # Weekly, to catch link rot on the profile
+  schedule:
+    - cron: "0 9 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: Lint README and workflows
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v25
+        with:
+          globs: README.md
+
+      - name: Lint workflows
+        uses: docker://rhysd/actionlint:1.7.12
+        with:
+          args: -color
+
+  links:
+    name: Check links
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      # 403, 429 and 999 are bot walls (publishers behind doi.org, Google
+      # Scholar, LinkedIn); an unregistered DOI or a dead page still fails.
+      - name: Check links in README
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept 100..=103,200..=299,403,429,999
+            README.md
